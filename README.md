@@ -1,6 +1,6 @@
 # Terraform en GCP
 
-Este es un repositorio donde voy a ir subiendo codigos que he realizado con Terraform en GCP. Voy a estar subiendo los que ya tengo realizados e iré subiendo aquí cualquier nueva infraestructura que vaya creando también.
+Este es un repositorio donde voy a ir subiendo codigos que he realizado con Terraform en GCP. Voy a estar subiendo los que ya tengo realizados e iré también añadiendo cualquier nueva infraestructura que vaya creando en adelante.
 
 ## Tecnologías
 - Terraform v1.15.8
