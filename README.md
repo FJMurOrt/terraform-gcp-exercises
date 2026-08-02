@@ -6,12 +6,12 @@ Este es un repositorio donde voy a ir subiendo codigos que he realizado con Terr
 - Terraform v1.15.8
 - Google Cloud Platform (GCP)
 
-## Requisitos
+## Lo que necesitas
 - Necesitas tener instalado Terraform.
 - Una cuenta en GCP para poder ver los cambios.
 - El gcloud CLI configurado en tu ordenador para poder aplicar los cambios con Terraform en tu proyecto de Google Cloud.
 
-## Uso
+## Comandos que debes ejecutar desde Terraform
 Entra en cada carpeta de ejercicio y ejecuta:
 ```bash
 terraform init
