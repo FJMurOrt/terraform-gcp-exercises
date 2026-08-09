@@ -1,0 +1,17 @@
+variable "project_id" {
+  description = "ID del proyecto"
+  type        = string
+  default     = "southern-field-472712-j3"
+}
+
+variable "region" {
+  description = "Región"
+  type        = string
+  default     = "europe-southwest1"
+}
+
+variable "topic_nombre" {
+  description = "Nombre del topic"
+  type        = string
+  default     = "topic-con-terraform"
+}
